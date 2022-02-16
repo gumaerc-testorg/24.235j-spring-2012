@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information regarding Session 9
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-235j-philosophy-of-law-spring-2012/5bd7d875110db3aee6b86063f3ae6315_MIT24_235JS12_Session9.pdf
+file: /media/courses/24-235j-philosophy-of-law-spring-2012/5bd7d875110db3aee6b86063f3ae6315_MIT24_235JS12_Session9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Reading Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 24.235 Session 9
 uid: 5bd7d875-110d-b3ae-e6b8-6063f3ae6315
