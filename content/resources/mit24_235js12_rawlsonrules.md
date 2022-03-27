@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bb763c4b-bd52-d710-297d-1e49f3142f3a
 resourcetype: Document
 title: '24.235J Final Paper: Two Concepts of Rules'
 uid: 2847683c-0120-3c64-8cac-9fea1899641d

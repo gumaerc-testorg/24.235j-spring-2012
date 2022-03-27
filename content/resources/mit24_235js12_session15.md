@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Reading Notes
 parent_type: CourseSection
+parent_uid: a682fbe4-eaba-8b45-f707-0b877346bc5d
 resourcetype: Document
 title: 'Session 15: Cushman, "Crime and Punishment: Distinguishing the roles of causal
   and intentional analyses in moral judgment"'

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bb763c4b-bd52-d710-297d-1e49f3142f3a
 resourcetype: Document
 title: '24.235J Philosophy of Law Paper Topics: Second Short Paper'
 uid: c404963b-7877-b575-67cd-b7d02c7928eb

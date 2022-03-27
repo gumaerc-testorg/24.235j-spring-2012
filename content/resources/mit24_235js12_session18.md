@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Reading Notes
 parent_type: CourseSection
+parent_uid: a682fbe4-eaba-8b45-f707-0b877346bc5d
 resourcetype: Document
 title: 24.235 Session 18
 uid: 40ae8fb4-41d0-e2e3-1f36-7d633d4f44af

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bb763c4b-bd52-d710-297d-1e49f3142f3a
 resourcetype: Document
 title: '24.235J Third Short Paper: The Punishment That Leaves Something Out'
 uid: 0c9a64c2-d603-4715-4fed-d70acb41ab34

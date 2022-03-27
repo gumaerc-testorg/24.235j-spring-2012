@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: bb763c4b-bd52-d710-297d-1e49f3142f3a
 resourcetype: Document
 title: '24.235J Final Paper: Paternalism and Irrationailty'
 uid: 92247010-6c1e-6fc0-f237-ee035a2846d7
