@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by lecture topic, information
+  on the course texts, and reading notes.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: e2d89306-4a21-4a18-7698-0e98fc58fea4
 ---
@@ -54,7 +59,7 @@ What is the difference between laws and commands?
 
 \[Schauer\] Austin, John. Selections from Lectures I, V, and VI of "The Province of Jurisprudence Determined and the Uses of the Study of Jurisprudence."
 
-[See the Reading Notes]({{< baseurl >}}/pages/reading-notes#2)
+{{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#2" %}}
 
 \[Feinberg\] Hart, H. L. A. "Law as the Union of Primary and Secondary Rules."
 
@@ -62,7 +67,7 @@ Also available in:
 
 ———. _The Concept of Law_. 2nd ed. Edited by Penelope Bulloch and Joseph Raz. Oxford University Press, 1997. ISBN: 9780198761235.
 
-[See the Reading Notes]({{< baseurl >}}/pages/reading-notes#3)
+{{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#3" %}}
 
 
 {{< tdclose >}}
@@ -80,7 +85,7 @@ How do we determine the content of laws? Do laws have moral content?
 
 \[Schauer\] Dworkin, Ronald. Selections from Chapters 2 and 4 of "Taking Rights Seriously."
 
-[See the Reading Notes]({{< baseurl >}}/pages/reading-notes#4)
+{{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#4" %}}
 
 
 {{< tdclose >}}
@@ -98,15 +103,15 @@ How should judges interpret the law?
 
 \[Schauer\] Dworkin, Ronald. Selections from Chapters 7 and 11 of "Law's Empire."
 
-[See the Reading Notes]({{< baseurl >}}/pages/reading-notes#5)
+{{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#5" %}}
 
 \[Feinberg\] Scalia, Antonin. "Common-Law Courts in a Civil-Law System: The Role of United States Federal Courts in Interpreting the Constitution and Laws."
 
-[See the Reading Notes]({{< baseurl >}}/pages/reading-notes#6)
+{{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#6" %}}
 
 \[Feinberg\] Dworkin, Ronald. "Comment."
 
-[See the Reading Notes]({{< baseurl >}}/pages/reading-notes#6)
+{{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#6" %}}
 
 
 {{< tdclose >}}
@@ -130,11 +135,11 @@ Is there an obligation to obey the law? Skepticism about political obligation…
 
 Wolff, Robert Paul. "The Conflict Between Authority and Autonomy." In _In Defense of Anarchism_. University of California Press, 1998. ISBN: 9780520215733.
 
-[See the Reading Notes]({{< baseurl >}}/pages/reading-notes#7)
+{{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#7" %}}
 
 Smith, M. B. E. "[Is There a Prima Facie Obligation to Obey the Law?](http://www.jstor.org/stable/795537)" _The Yale Law Journal_ 82, no. 5 (1973): 950–76.
 
-[See the Reading Notes]({{< baseurl >}}/pages/reading-notes#8)
+{{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#8" %}}
 
 
 {{< tdclose >}}
@@ -152,11 +157,11 @@ Optimism about political obligation…
 
 Dworkin, Ronald. Selections from _Law's Empire_. Belknap Press of Harvard University Press, 1986, pp. 190–215. ISBN: 9780674518360.
 
-[See the Reading Notes]({{< baseurl >}}/pages/reading-notes#9)
+{{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#9" %}}
 
 Raz, Joseph. "[Authority and Justification](http://www.jstor.org/stable/2265235)." _Philosophy and Public Affairs_ 14, no. 1 (1985): 3–29.
 
-[See the Reading Notes]({{< baseurl >}}/pages/reading-notes#10)
+{{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#10" %}}
 
 
 {{< tdclose >}}
@@ -174,7 +179,7 @@ Should we sometimes disobey the law?
 
 \[Schauer\] Rawls, John. "The Justification of Civil Disobedience."
 
-[See the Reading Notes]({{< baseurl >}}/pages/reading-notes#11)
+{{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#11" %}}
 
 ### Optional Reading
 
@@ -202,7 +207,7 @@ When exactly does an act cause harm?
 
 \[Schauer\] Hart, H. L. A., and Tony Honore. Selections from "Causation In The Law."
 
-[See the Reading Notes]({{< baseurl >}}/pages/reading-notes#12)
+{{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#12" %}}
 
 
 {{< tdclose >}}
@@ -220,7 +225,7 @@ Where does the burden of proof lie?
 
 \[Schauer\] Kaplan, John. "Decision Theory and the Factfinding Process."
 
-[See the Reading Notes]({{< baseurl >}}/pages/reading-notes#13)
+{{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#13" %}}
 
 
 {{< tdclose >}}
@@ -238,7 +243,7 @@ What counts as evidence of guilt / liability?
 
 \[Schauer\] Thomson, Judith Jarvis. "Liability and Individualized Evidence."
 
-[See the Reading Notes]({{< baseurl >}}/pages/reading-notes#14)
+{{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#14" %}}
 
 
 {{< tdclose >}}
@@ -256,11 +261,11 @@ Is it appropriate to punish acts that "successfully" cause harm (e.g., murder, v
 
 Cushman, Fiery. "[Crime and Punishment: Distinguishing the Roles of Causal and Intentional Analyses in Moral Judgment](http://dx.doi.org/10.1016/j.cognition.2008.03.006)." _Cognition_ 108, no. 2 (2008): 353–80.
 
-[See the Reading Notes]({{< baseurl >}}/pages/reading-notes#15)
+{{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#15" %}}
 
 Lewis, David. "[The Punishment That Leaves Something to Chance](http://www.jstor.org/stable/2265191)." _Philosophy and Public Affairs_ 18, no. 1 (1989): 53–67.
 
-[See the Reading Notes]({{< baseurl >}}/pages/reading-notes#16)
+{{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#16" %}}
 
 
 {{< tdclose >}}
@@ -278,11 +283,11 @@ What, if anything, justifies punishment of offenders by the state?
 
 \[Schauer\] Bentham, Jeremy. Chapter 1 (Sections 1–11), and Chapters 13–14 from "An Introduction to The Principles of Morals and Legislation."
 
-[See the Reading Notes]({{< baseurl >}}/pages/reading-notes#17)
+{{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#17" %}}
 
 Rawls, John. "[Two Concepts of Rules](http://www.jstor.org/stable/2182230)." _The Philosophical Review_ 64, no. 1 (1955): 3–32.
 
-[See the Reading Notes]({{< baseurl >}}/pages/reading-notes#18)
+{{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#18" %}}
 
 
 {{< tdclose >}}
@@ -306,11 +311,11 @@ When is the state justified in interfering in the lives of its citizens?
 
 \[Feinberg\] Mill, John Stuart. "The Liberal Argument from _On Liberty_." Excerpts from Chapters 1 and 2, and Chapter IV.
 
-[See the Reading Notes]({{< baseurl >}}/pages/reading-notes#19)
+{{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#19" %}}
 
 \[Feinberg\] Dworkin, Gerald. "Paternalism."
 
-[See the Reading Notes]({{< baseurl >}}/pages/reading-notes#20)
+{{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#20" %}}
 
 
 {{< tdclose >}}
@@ -328,11 +333,11 @@ What are the justifications for and limits of freedom of speech?
 
 Scanlon, Thomas. "[A Theory of Freedom of Expression](http://www.jstor.org/stable/2264971)." _Philosophy and Public Affairs_ 1, no. 2 (1972): 204–26.
 
-[See the Reading Notes]({{< baseurl >}}/pages/reading-notes#21)
+{{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#21" %}}
 
 Langton, Rae. "[Speech Acts and Unspeakable Acts](http://www.jstor.org/stable/2265469)." _Philosophy and Public Affairs_ 22, no. 4 (1993): 293–330.
 
-[See the Reading Notes]({{< baseurl >}}/pages/reading-notes#22)
+{{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#22" %}}
 
 
 {{< tdclose >}}
@@ -348,9 +353,9 @@ Can we harm people by bringing them into existence, and should we be liable for 
 {{< tdopen >}}
 
 
-Shiffrin, Seana Valentine. ["Wrongful Life, Procreative Responsibility, and the Significance of Harm." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2685379) _Legal Theory_ 5 (1999): 117–48.
+Shiffrin, Seana Valentine. ["Wrongful Life, Procreative Responsibility, and the Significance of Harm." (PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2685379) _Legal Theory_ 5 (1999): 117–48.
 
-[See the Reading Notes]({{< baseurl >}}/pages/reading-notes#23)
+{{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#23" %}}
 
 
 {{< tdclose >}}
@@ -374,11 +379,11 @@ What special ethical problems do lawyers face?
 
 Wasserstrom, Richard. "[Lawyers as Professionals: Some Moral Issues](http://heinonline.org/HOL/LandingPage?collection=journals&handle=hein.journals/huri5&div=7&id=&page)." _Human Rights Quarterly_ 5, no. 1 (1975): 105–28.
 
-[See the Reading Notes]({{< baseurl >}}/pages/reading-notes#25)
+{{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#25" %}}
 
 Applbaum, Arthur. "[Professional Detachment: The Executioner of Paris](http://www.jstor.org/stable/1341979)." _Harvard Law Review_ 109, no. 2 (1995): 458–86.
 
-[See the Reading Notes]({{< baseurl >}}/pages/reading-notes#26)
+{{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#26" %}}
 
 
 {{< tdclose >}}
