@@ -5,6 +5,7 @@ file: /courses/24-235j-philosophy-of-law-spring-2012/5ddfc045250c1ea76f0e1e14fd8
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Reading Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 24.235 Session 14
 uid: 5ddfc045-250c-1ea7-6f0e-1e14fd8f27bc
 ---
 This resource contains information regarding Session 14
-

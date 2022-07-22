@@ -5,6 +5,7 @@ file: /courses/24-235j-philosophy-of-law-spring-2012/3ca08fc47c053e7afee213e0002
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Reading Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 24.235 Session 20
 uid: 3ca08fc4-7c05-3e7a-fee2-13e00023eeed
 ---
 This resource contains information about Session 20
-

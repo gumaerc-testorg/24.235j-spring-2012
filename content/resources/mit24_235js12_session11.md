@@ -5,6 +5,7 @@ file: /courses/24-235j-philosophy-of-law-spring-2012/0350f03f8580ef7a1124b1bc9b5
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Reading Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 24.235 Session 11
 uid: 0350f03f-8580-ef7a-1124-b1bc9b500e37
 ---
 This resource contains information regarding Session 11
-
