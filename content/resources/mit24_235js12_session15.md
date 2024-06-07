@@ -5,6 +5,7 @@ description: "Reading notes on \"Crime and Punishment: Distinguishing the Roles 
   \ moral luck, the control principle, Cushman\u2019s general findings, and the relevance\
   \ of empirical moral psychology to ethics."
 file: /courses/24-235j-philosophy-of-law-spring-2012/e3540251942f92ccbae908507c5bc263_MIT24_235JS12_Session15.pdf
+file_size: 662179
 file_type: application/pdf
 learning_resource_types:
 - Readings
