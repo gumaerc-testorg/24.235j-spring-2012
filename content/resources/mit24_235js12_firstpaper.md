@@ -3,6 +3,7 @@ content_type: resource
 description: Assignment to write a short paper addressing one of four topics on the
   philosophy of law.
 file: /courses/24-235j-philosophy-of-law-spring-2012/fe8bb19959b3fb8588a496a33937d259_MIT24_235JS12_Firstpaper.pdf
+file_size: 537216
 file_type: application/pdf
 learning_resource_types:
 - Assignments
