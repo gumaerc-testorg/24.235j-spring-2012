@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Session 9
 file: /courses/24-235j-philosophy-of-law-spring-2012/5bd7d875110db3aee6b86063f3ae6315_MIT24_235JS12_Session9.pdf
+file_size: 631937
 file_type: application/pdf
 learning_resource_types:
 - Readings

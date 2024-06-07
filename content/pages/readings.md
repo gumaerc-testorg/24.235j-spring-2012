@@ -137,7 +137,7 @@ Wolff, Robert Paul. "The Conflict Between Authority and Autonomy." In _In Defens
 
 {{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#7" %}}
 
-Smith, M. B. E. "{{% resource_link "9c427438-5501-420b-ab40-6c89fc9e88db" "Is There a Prima Facie Obligation to Obey the Law?" %}}" _The Yale Law Journal_ 82, no. 5 (1973): 950–76.
+Smith, M. B. E. "[Is There a Prima Facie Obligation to Obey the Law?](http://www.jstor.org/stable/795537)" _The Yale Law Journal_ 82, no. 5 (1973): 950–76.
 
 {{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#8" %}}
 
@@ -159,7 +159,7 @@ Dworkin, Ronald. Selections from _Law's Empire_. Belknap Press of Harvard Univer
 
 {{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#9" %}}
 
-Raz, Joseph. "{{% resource_link "c3ccdc1b-fe64-425d-9a85-904b5f4be645" "Authority and Justification" %}}." _Philosophy and Public Affairs_ 14, no. 1 (1985): 3–29.
+Raz, Joseph. "[Authority and Justification](http://www.jstor.org/stable/2265235)." _Philosophy and Public Affairs_ 14, no. 1 (1985): 3–29.
 
 {{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#10" %}}
 
@@ -259,11 +259,11 @@ Is it appropriate to punish acts that "successfully" cause harm (e.g., murder, v
 {{< tdopen >}}
 
 
-Cushman, Fiery. "{{% resource_link "c8c9aa8a-4a10-4c66-8057-0eaf0583bf9b" "Crime and Punishment: Distinguishing the Roles of Causal and Intentional Analyses in Moral Judgment" %}}." _Cognition_ 108, no. 2 (2008): 353–80.
+Cushman, Fiery. "[Crime and Punishment: Distinguishing the Roles of Causal and Intentional Analyses in Moral Judgment](http://dx.doi.org/10.1016/j.cognition.2008.03.006)." _Cognition_ 108, no. 2 (2008): 353–80.
 
 {{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#15" %}}
 
-Lewis, David. "{{% resource_link "512b61a1-328b-4f21-83af-6c39d8ac2475" "The Punishment That Leaves Something to Chance" %}}." _Philosophy and Public Affairs_ 18, no. 1 (1989): 53–67.
+Lewis, David. "[The Punishment That Leaves Something to Chance](http://www.jstor.org/stable/2265191)." _Philosophy and Public Affairs_ 18, no. 1 (1989): 53–67.
 
 {{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#16" %}}
 
@@ -285,7 +285,7 @@ What, if anything, justifies punishment of offenders by the state?
 
 {{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#17" %}}
 
-Rawls, John. "{{% resource_link "c3527382-b8c0-40ed-88b4-51e450df5293" "Two Concepts of Rules" %}}." _The Philosophical Review_ 64, no. 1 (1955): 3–32.
+Rawls, John. "[Two Concepts of Rules](http://www.jstor.org/stable/2182230)." _The Philosophical Review_ 64, no. 1 (1955): 3–32.
 
 {{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#18" %}}
 
@@ -331,11 +331,11 @@ What are the justifications for and limits of freedom of speech?
 {{< tdopen >}}
 
 
-Scanlon, Thomas. "{{% resource_link "f8f9092a-e81b-4e3f-9e94-b5ada4700148" "A Theory of Freedom of Expression" %}}." _Philosophy and Public Affairs_ 1, no. 2 (1972): 204–26.
+Scanlon, Thomas. "[A Theory of Freedom of Expression](http://www.jstor.org/stable/2264971)." _Philosophy and Public Affairs_ 1, no. 2 (1972): 204–26.
 
 {{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#21" %}}
 
-Langton, Rae. "{{% resource_link "4cdb3475-9540-4027-a7f4-8d012c63b7d5" "Speech Acts and Unspeakable Acts" %}}." _Philosophy and Public Affairs_ 22, no. 4 (1993): 293–330.
+Langton, Rae. "[Speech Acts and Unspeakable Acts](http://www.jstor.org/stable/2265469)." _Philosophy and Public Affairs_ 22, no. 4 (1993): 293–330.
 
 {{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#22" %}}
 
@@ -353,7 +353,7 @@ Can we harm people by bringing them into existence, and should we be liable for 
 {{< tdopen >}}
 
 
-Shiffrin, Seana Valentine. {{% resource_link "506dfc4e-5117-488a-acd6-a23e5edf57e4" "\"Wrongful Life, Procreative Responsibility, and the Significance of Harm.\" (PDF)" %}} _Legal Theory_ 5 (1999): 117–48.
+Shiffrin, Seana Valentine. ["Wrongful Life, Procreative Responsibility, and the Significance of Harm." (PDF)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2685379) _Legal Theory_ 5 (1999): 117–48.
 
 {{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#23" %}}
 
@@ -377,11 +377,11 @@ What special ethical problems do lawyers face?
 {{< tdopen >}}
 
 
-Wasserstrom, Richard. "{{% resource_link "b4361a22-b33e-442e-9efc-519df4271a80" "Lawyers as Professionals: Some Moral Issues" %}}." _Human Rights Quarterly_ 5, no. 1 (1975): 105–28.
+Wasserstrom, Richard. "[Lawyers as Professionals: Some Moral Issues](http://heinonline.org/HOL/LandingPage?collection=journals&handle=hein.journals/huri5&div=7&id=&page)." _Human Rights Quarterly_ 5, no. 1 (1975): 105–28.
 
 {{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#25" %}}
 
-Applbaum, Arthur. "{{% resource_link "582c405c-78f4-4ada-a76b-b050a626f7f3" "Professional Detachment: The Executioner of Paris" %}}." _Harvard Law Review_ 109, no. 2 (1995): 458–86.
+Applbaum, Arthur. "[Professional Detachment: The Executioner of Paris](http://www.jstor.org/stable/1341979)." _Harvard Law Review_ 109, no. 2 (1995): 458–86.
 
 {{% resource_link a682fbe4-eaba-8b45-f707-0b877346bc5d "See the Reading Notes" "#26" %}}
 

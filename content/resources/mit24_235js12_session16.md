@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding Session 16
 file: /courses/24-235j-philosophy-of-law-spring-2012/6211664d560e46c47023599ca5318489_MIT24_235JS12_Session16.pdf
+file_size: 664297
 file_type: application/pdf
 learning_resource_types:
 - Readings
