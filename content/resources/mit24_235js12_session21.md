@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about Session 21
-file: /ol-ocw-studio-app/courses/24-235j-philosophy-of-law-spring-2012/f9e629b155f15fb2f7b6de52211cc7dc_MIT24_235JS12_Session21.pdf
+file: /courses/24-235j-philosophy-of-law-spring-2012/f9e629b155f15fb2f7b6de52211cc7dc_MIT24_235JS12_Session21.pdf
 file_size: 571016
 file_type: application/pdf
 learning_resource_types:

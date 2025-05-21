@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information about two concepts of rules.
-file: /ol-ocw-studio-app/courses/24-235j-philosophy-of-law-spring-2012/2847683c01203c648cac9fea1899641d_MIT24_235JS12_Rawlsonrules.pdf
+file: /courses/24-235j-philosophy-of-law-spring-2012/2847683c01203c648cac9fea1899641d_MIT24_235JS12_Rawlsonrules.pdf
 file_size: 332220
 file_type: application/pdf
 learning_resource_types:

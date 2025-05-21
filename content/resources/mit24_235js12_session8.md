@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Session 8
-file: /ol-ocw-studio-app/courses/24-235j-philosophy-of-law-spring-2012/e45ef41f9dd5d2e834592c01bcc7b4fa_MIT24_235JS12_Session8.pdf
+file: /courses/24-235j-philosophy-of-law-spring-2012/e45ef41f9dd5d2e834592c01bcc7b4fa_MIT24_235JS12_Session8.pdf
 file_size: 571512
 file_type: application/pdf
 learning_resource_types:

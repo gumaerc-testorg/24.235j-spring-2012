@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information about Hart's Theory of Rules.
-file: /ol-ocw-studio-app/courses/24-235j-philosophy-of-law-spring-2012/ffae1af51d0b79c75d5230c48c5ca63a_MIT24_235JS12_Hartrules.pdf
+file: /courses/24-235j-philosophy-of-law-spring-2012/ffae1af51d0b79c75d5230c48c5ca63a_MIT24_235JS12_Hartrules.pdf
 file_size: 774283
 file_type: application/pdf
 learning_resource_types:
