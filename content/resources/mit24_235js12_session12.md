@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding Session 12
-file: /courses/24-235j-philosophy-of-law-spring-2012/48b405d68da7b8d98ebe51a18fd2e478_MIT24_235JS12_Session12.pdf
+file: /ol-ocw-studio-app/courses/24-235j-philosophy-of-law-spring-2012/48b405d68da7b8d98ebe51a18fd2e478_MIT24_235JS12_Session12.pdf
 file_size: 647344
 file_type: application/pdf
 learning_resource_types:

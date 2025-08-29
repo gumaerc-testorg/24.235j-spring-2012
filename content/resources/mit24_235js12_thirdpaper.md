@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information about third paper.
-file: /courses/24-235j-philosophy-of-law-spring-2012/ef3f9d27f60a29c208c58f56df37ed6d_MIT24_235JS12_Thirdpaper.pdf
+file: /ol-ocw-studio-app/courses/24-235j-philosophy-of-law-spring-2012/ef3f9d27f60a29c208c58f56df37ed6d_MIT24_235JS12_Thirdpaper.pdf
 file_size: 545004
 file_type: application/pdf
 learning_resource_types:
