@@ -2,7 +2,7 @@
 content_type: resource
 description: "This file contains information about the punishment that leaves something\
   \ out.\r\n"
-file: /courses/24-235j-philosophy-of-law-spring-2012/0c9a64c2d60347154fedd70acb41ab34_MIT24_235JS12_Punishment.pdf
+file: /ol-ocw-studio-app/courses/24-235j-philosophy-of-law-spring-2012/0c9a64c2d60347154fedd70acb41ab34_MIT24_235JS12_Punishment.pdf
 file_size: 222099
 file_type: application/pdf
 learning_resource_types:

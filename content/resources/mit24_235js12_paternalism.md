@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information about Paternalism and Irrationailty.
-file: /courses/24-235j-philosophy-of-law-spring-2012/922470106c1e6fc0f237ee035a2846d7_MIT24_235JS12_Paternalism.pdf
+file: /ol-ocw-studio-app/courses/24-235j-philosophy-of-law-spring-2012/922470106c1e6fc0f237ee035a2846d7_MIT24_235JS12_Paternalism.pdf
 file_size: 127627
 file_type: application/pdf
 learning_resource_types:
