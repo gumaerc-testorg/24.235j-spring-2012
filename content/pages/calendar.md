@@ -241,7 +241,7 @@ Can we harm people by bringing them into existence, and should we be liable for 
 {{< tdopen >}}
 What special ethical problems do lawyers face?
 
-_Screening of the motion picture "[Reversal of Fortune](http://www.imdb.com/title/tt0100486/)"._
+_Screening of the motion picture "{{% resource_link "bbef2548-18e1-480c-bf3a-16135899bc08" "Reversal of Fortune" %}}"._
 
 
 {{< tdclose >}}
